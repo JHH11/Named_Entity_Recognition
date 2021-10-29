@@ -1,0 +1,5 @@
+datasets==1.11.0
+transformers==4.5.0
+torch==1.6.0
+tqdm==4.48.2
+seqeval==1.2.2
