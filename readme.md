@@ -1,5 +1,5 @@
 # Description
-There has been an information explosion in the world. Using **Knowledge** Graphs can extract information effectively. 
+There has been an information explosion in the world. Using **Knowledge Graphs** can extract information effectively. 
 Our ultimate goal is to build a Knowledge Graphs system, which's input is an article and the output is Knowledge Graph. 
 In order to complete this system, we need to finish two main tasks, which are **Named Entity Recognition(NER)** and **Relation Extraction(RE)**.
 Our initial thought is that passing an article to the NER model so that we can obtain Entity Objects. 
